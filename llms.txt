@@ -1,0 +1,51 @@
+# Geotecnia1 — Concepción
+
+> Geotechnical engineering services in Concepción, Chile.
+
+## Services
+- [Aislacion Sismica](https://concepcion.geotecnia1.xyz/aislacion-sismica/)
+- [Anclajes](https://concepcion.geotecnia1.xyz/anclajes/)
+- [Calicatas](https://concepcion.geotecnia1.xyz/calicatas/)
+- [Cbr Vial](https://concepcion.geotecnia1.xyz/cbr-vial/)
+- [Cimentaciones](https://concepcion.geotecnia1.xyz/cimentaciones/)
+- [Columnas Grava](https://concepcion.geotecnia1.xyz/columnas-grava/)
+- [Densidad Cono Arena](https://concepcion.geotecnia1.xyz/densidad-cono-arena/)
+- [Ensayo Cpt](https://concepcion.geotecnia1.xyz/ensayo-cpt/)
+- [Ensayos Proctor](https://concepcion.geotecnia1.xyz/ensayos-proctor/)
+- [Estabilidad Taludes](https://concepcion.geotecnia1.xyz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://concepcion.geotecnia1.xyz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://concepcion.geotecnia1.xyz/excavaciones-subterraneo/)
+- [Exploracion](https://concepcion.geotecnia1.xyz/exploracion/)
+- [Geotecnia Vial](https://concepcion.geotecnia1.xyz/geotecnia-vial/)
+- [Granulometria](https://concepcion.geotecnia1.xyz/granulometria/)
+- [Inyecciones](https://concepcion.geotecnia1.xyz/inyecciones/)
+- [Laboratorio In Situ](https://concepcion.geotecnia1.xyz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://concepcion.geotecnia1.xyz/laboratorio-lab/)
+- [Licuefaccion](https://concepcion.geotecnia1.xyz/licuefaccion/)
+- [Limites Atterberg](https://concepcion.geotecnia1.xyz/limites-atterberg/)
+- [Losas Fundacion](https://concepcion.geotecnia1.xyz/losas-fundacion/)
+- [Masw](https://concepcion.geotecnia1.xyz/masw/)
+- [Mejoramiento](https://concepcion.geotecnia1.xyz/mejoramiento/)
+- [Microzonificacion Sismica](https://concepcion.geotecnia1.xyz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://concepcion.geotecnia1.xyz/monitoreo-excavaciones/)
+- [Muros Contencion](https://concepcion.geotecnia1.xyz/muros-contencion/)
+- [Pavimento Flexible](https://concepcion.geotecnia1.xyz/pavimento-flexible/)
+- [Pavimento Rigido](https://concepcion.geotecnia1.xyz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://concepcion.geotecnia1.xyz/permeabilidad-in-situ/)
+- [Pilotes](https://concepcion.geotecnia1.xyz/pilotes/)
+- [Refraccion Sismica](https://concepcion.geotecnia1.xyz/refraccion-sismica/)
+- [Resistividad](https://concepcion.geotecnia1.xyz/resistividad/)
+- [Sismica](https://concepcion.geotecnia1.xyz/sismica/)
+- [Sondajes Spt](https://concepcion.geotecnia1.xyz/sondajes-spt/)
+- [Taludes](https://concepcion.geotecnia1.xyz/taludes/)
+- [Triaxial](https://concepcion.geotecnia1.xyz/triaxial/)
+- [Tuneles Suelo Blando](https://concepcion.geotecnia1.xyz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://concepcion.geotecnia1.xyz/vibrocompactacion/)
+- [Zapatas](https://concepcion.geotecnia1.xyz/zapatas/)
+
+## Contact
+- Website: https://concepcion.geotecnia1.xyz/
+
+## About
+This site provides geotechnical engineering services in Concepción, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
